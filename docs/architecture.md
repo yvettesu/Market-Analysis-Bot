@@ -1,6 +1,6 @@
 # Market-Analysis-Bot｜系统架构设计
 
-**文档状态：** MVP 设计规范（尚未实现）
+**文档状态：** MVP 设计规范；基础实现已开始（当前仅 Binance USD-M 加密永续发现与快照采集可执行）
 
 **交付目标：** Output A——可审计的 MySQL BI 热点排行榜，以及 JSON／Markdown 审核导出。
 **运行模式：** 手动 CLI；不包含 Scheduler、Lark、CRM、自动推播及真实交易。
